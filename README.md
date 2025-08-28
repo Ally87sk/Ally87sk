@@ -10,9 +10,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ally87sk&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ally87sk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="center"
+   href="https://github.com/Ally87sk" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/105674701?v=4" width="40px" style="border-radius: 50%;" alt="Ally Carvalho GitHub Avatar" />
 </p>
+
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/aline-carvalho-87sk/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)"</a>
