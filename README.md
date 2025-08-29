@@ -34,9 +34,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-0D1117?style=for-the-badge&logo=jetpackcompose&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ally87sk}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
