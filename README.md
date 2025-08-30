@@ -33,6 +33,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-0D1117?style=for-the-badge&logo=jetpackcompose&labelColor=0D1117)&nbsp;
 
+<div style="margin-top: 30px;"></div>
 
 <div align="center">
   <a href="https://modelcurriculo-byally.netlify.app/" target="_blank">
@@ -40,6 +41,7 @@
   </a>
 </div>
 
+<div style="margin-top: 30px;"></div>
 
 ![GitHub followers](https://img.shields.io/github/followers/Ally87sk?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ally87sk?style=social)
