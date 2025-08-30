@@ -38,10 +38,13 @@
 <div align="center">
   <a href="https://modelcurriculo-byally.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Currículo-00bfbf?style=for-the-badge&logo=readme&logoColor=white" alt="Ver Currículo">
+     <style="margin-top: 30px;">
   </a>
 </div>
 
-<div style="margin-top: 30px;"></div>
+<div
+<br><br>
+</div>
 
 ![GitHub followers](https://img.shields.io/github/followers/Ally87sk?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ally87sk?style=social)
