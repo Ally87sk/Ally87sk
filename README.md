@@ -37,10 +37,9 @@
 
 <div align="center">
   <a href="https://modelcurriculo-byally.netlify.app/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F8480%2F8480673.png&f=1&nofb=1&ipt=7e2c662d61b2e0f2a573f1c8e1c908c9d01fa270e3fdd28eea336468d4d955aa" alt="Clique para ver meu currículo" width="80%">
+    <img src="https://img.shields.io/badge/Ver%20Currículo-00bfbf?style=for-the-badge&logo=readme&logoColor=white" alt="Ver Currículo">
   </a>
 </div>
-
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Ally87sk?style=social)
